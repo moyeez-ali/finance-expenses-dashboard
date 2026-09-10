@@ -81,7 +81,7 @@ Completely — income holds at exactly $4,000 every single month, indicating a f
 Yes, modestly — expenses range from about $2,872 to $3,146 most months, with a notable drop in December (~$1,913), possibly due to fewer recorded transactions or reduced spending at year-end.
 
 ## Dashboard
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](images/dashboard-screenshot.png)
 
 The dashboard combines the above findings into one interactive view:
 - KPI summary cards (Total Income, Total Expense, Net Cash Flow, Cash Flow Rate)
